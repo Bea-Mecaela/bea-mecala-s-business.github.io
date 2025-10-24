@@ -1,1 +1,1 @@
-# bea-mecala-s-business.github.io
+# bea-mecala-business.github.io
